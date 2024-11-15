@@ -2,9 +2,9 @@
 
 This guide walks you through the steps to adjust the background opacity in Termux, allowing for a transparent or semi-transparent terminal view on your Android device. Adjusting the opacity can improve visibility or aesthetics, especially if you're using custom wallpapers.
 
-## Prerequisites
+## Prerequisites 
 
-- **Termux** app installed on your Android device.  
+- **Termux** application installed on your Android device.  
   *[Download from F-Droid if needed, as it's no longer updated on the Google Play Store]*
 
 ## Steps
