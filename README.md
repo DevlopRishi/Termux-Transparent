@@ -5,7 +5,7 @@ This guide walks you through the steps to adjust the background opacity in Termu
 ## Prerequisites 
 
 - **Termux** application installed on your Android device.  
-  *[Download from F-Droid if needed, as it's no longer updated on the Google Play Store]*
+  *[Download from F-Droid if needed, as it's no longer updated on the Google Play Store, neither does it work]*
 
 ## Steps
 
