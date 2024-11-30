@@ -57,7 +57,7 @@ background_opacity = 0.8
 
 This will give the Termux terminal an 80% opaque background, allowing some wallpaper visibility but with a solid appearance.
 
-## Notes
+## Notes              
 
 - Experiment with different values to find what works best with your wallpaper.
 - Increasing transparency may affect readability based on your background.
